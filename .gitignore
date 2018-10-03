@@ -197,3 +197,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+src/main/resources/
+src/test/
+target/generated-sources/
